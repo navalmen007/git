@@ -7,5 +7,10 @@
             "email": "navalmen007@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "": "core/"
+        }
+    },
     "require": {}
 }
