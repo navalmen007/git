@@ -1,0 +1,11 @@
+{
+    "name": "navalmen007/gittest",
+    "description": "test de git composer",
+    "authors": [
+        {
+            "name": "navalmen007",
+            "email": "navalmen007@gmail.com"
+        }
+    ],
+    "require": {}
+}
