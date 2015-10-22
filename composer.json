@@ -12,5 +12,7 @@
             "": "core/"
         }
     },
-    "require": {}
+    "require": {
+         "slim/slim": "2.*"
+    }
 }
